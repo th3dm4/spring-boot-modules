@@ -3,8 +3,9 @@ package com.test.pojo;
 import lombok.Data;
 import org.springframework.stereotype.Component;
 
+//此处@Component可省略，不影响运行
+//@Component
 @Data
-@Component
 public class User {
     private String name;
 
