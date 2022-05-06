@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="185e8d89-e77d-4397-b2aa-20c801f804c2" name="Default Changelist" comment="" />
+    <list default="true" id="185e8d89-e77d-4397-b2aa-20c801f804c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/module-a/src/main/java/com/test/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/module-a/src/main/java/com/test/pojo/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1651821944643</updated>
       <workItem from="1651821946525" duration="552000" />
+      <workItem from="1651823110130" duration="30000" />
     </task>
     <servers />
   </component>
